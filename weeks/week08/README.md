@@ -406,7 +406,7 @@ on MDN.  For example:
 There are hundreds of properties we can tweak as web developers, and it's a good idea to explore
 what's available, and to look at how other web sites use them via the developer tools.
 
-A property can have one or more values.  A the possible values a property can have also comes
+A property can have one or more values.  The possible values a property can have also comes
 from the standard.  For example:
 
 ```css
